@@ -141,6 +141,6 @@ eat: it was a [hobbit-hole][1], and that means comfort.
 
 [Links](#Links)  
 
-[Alineando tablas](#Alineando tablas)  
+[Alineando tablas](#Alineando-tablas)  
 
 
