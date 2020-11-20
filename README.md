@@ -88,6 +88,9 @@ At the command prompt, type `nano`.
 
 <fake@example.com>
 
+## **Links deshabilitados**
+`http://www.example.com`
+
 ## **Enfatisando Links**
 
 I love supporting the **[EFF](https://eff.org)**.
@@ -147,3 +150,9 @@ eat: it was a [hobbit-hole][1], and that means comfort.
 - [x] Write the press release
 - [ ] Update the website
 - [ ] Contact the media
+
+## **Emojis**
+
+Gone camping! :tent: Be back soon.
+
+That is so funny! :joy:
