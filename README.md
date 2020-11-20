@@ -135,6 +135,12 @@ eat: it was a [hobbit-hole][1], and that means comfort.
 
 ## **Tabla de contenidos**
 
-[Encabezados](#Encabezados)
-[Tablas](#Tablas)
-[Links](#Links)
+[Encabezados](#Encabezados)  
+
+[Tablas](#Tablas)  
+
+[Links](#Links)  
+
+[Alineando tablas](#Alineando tablas)  
+
+
