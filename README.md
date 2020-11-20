@@ -1,4 +1,4 @@
-# **Encabezados** 
+# **Encabezados** {#en}
 
 ## Heading level 2
 ### Heading level 3
@@ -128,4 +128,6 @@ eat: it was a [hobbit-hole][1], and that means comfort.
 | Header      | Title       | Here's this   |
 | Paragraph   | Text        | And more      |
 
-> [Abrir doc "holamundo"](./holamundo.md)
+> [Abrir doc "holamundo"](./holamundo.md) 
+
+[Heading IDs](#en)
