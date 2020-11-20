@@ -108,7 +108,7 @@ eat: it was a [hobbit-hole][1], and that means comfort.
 ## **Imagen de internet**
 ![[An old rock in the desert](/assets/images/shiprock.jpg "Shiprock, New Mexico by Beau Rogers")](https://images.pexels.com/photos/5582900/pexels-photo-5582900.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940)
 
-## **Tables**
+## **Tablas**
 
 | Syntax      | Description |
 | ----------- | ----------- |
@@ -123,11 +123,18 @@ eat: it was a [hobbit-hole][1], and that means comfort.
 | Paragraph | Text |
 
 ## **Alineando tablas**
+
 | Syntax      | Description | Test Text     |
 | :---        |    :----:   |          ---: |
 | Header      | Title       | Here's this   |
 | Paragraph   | Text        | And more      |
 
+## **Enlaces a otros docs**
+
 > [Abrir doc "holamundo"](./holamundo.md) 
 
-[Heading IDs](#Encabezados)
+## **Tabla de contenidos**
+
+[Encabezados](#Encabezados)
+[Listas Anidadas](#Listas anidadas)
+[Encabezados](#Encabezados)
