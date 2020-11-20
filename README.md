@@ -143,4 +143,7 @@ eat: it was a [hobbit-hole][1], and that means comfort.
 
 [Alineando tablas](#Alineando-tablas)  
 
-
+## Listas de tarea
+- [x] Write the press release
+- [ ] Update the website
+- [ ] Contact the media
