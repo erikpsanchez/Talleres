@@ -87,27 +87,24 @@ ___
 
 ## **Citas**
 
-> Dorothy followed her through many of the beautiful rooms in her castle.
+> Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
 
 ## **Citas con múltiples párrafos**
 
-> Dorothy followed her through many of the beautiful rooms in her castle.
+> Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
 >
-> The Witch bade her clean the pots and kettles and sweep the floor and keep the fire fed with wood.
+> Suspendisse sit amet egestas mi, vel laoreet lorem. 
 
 ## **Citas anidadas**
 
-> Dorothy followed her through many of the beautiful rooms in her castle.
+> Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 >
->> The Witch bade her clean the pots and kettles and sweep the floor and keep the fire fed with wood.
->>> Hello
-
+>> Suspendisse sit amet egestas mi, vel laoreet lorem.
+>>> Mauris consequat posuere purus, vitae egestas lorem varius sed.
 
 ## **Código**
 
 At the command prompt, type `nano`.  
-
-``Use `code` in your Markdown file.``
 
 ## **Bloques de código**
 ```json
@@ -143,7 +140,7 @@ eat: it was a [hobbit-hole][1], and that means comfort.
 
 ## **Enlaces a otros docs**
 
-> [Abrir doc "holamundo"](./holamundo.md) 
+[Abrir doc "holamundo"](./holamundo.md) 
 
 ## **Imagen local**
 ![Imagen](cheems.png "Ta' wonito")
