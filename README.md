@@ -140,7 +140,8 @@ eat: it was a [hobbit-hole][1], and that means comfort.
 
 ## **Enlaces a otros docs**
 
-[Abrir doc "holamundo"](./holamundo.md) 
+[Abrir doc "holamundo.md"](./holamundo.md) 
+[Abrir doc "index.html" de la carpeta web](web/index.html) 
 
 ## **Imagen local**
 ![Imagen](cheems.png "Ta' wonito")
