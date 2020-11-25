@@ -4,7 +4,7 @@
 
 [Énfasis](#Énfasis)  
 
-[Listas ordenadas](#Listas ordenadas)  
+[Listas ordenadas](#Listas-ordenadas)  
 
 [Listas deordenadas](#Listas-desordenadas)  
 
