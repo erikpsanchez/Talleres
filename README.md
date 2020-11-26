@@ -145,7 +145,7 @@ eat: it was a [hobbit-hole][1], and that means comfort.
 [Abrir doc "index.html" de la carpeta web](web/index.html) 
 
 ## **Imagen local**
-![Imagen](Sprint.jpg "...")  
+![Imagen](1.png "...")  
 
 ![Imagen](/img/img2.jpg "...")
 
