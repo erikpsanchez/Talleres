@@ -149,6 +149,8 @@ eat: it was a [hobbit-hole][1], and that means comfort.
 
 ![Imagen](2.png "...")  
 
+![Imagen](3.png "...")  
+
 ![Imagen](/img/img2.jpg "...")
 
 ## **Imagen de internet**
