@@ -1,6 +1,6 @@
 # Taller de Markdown 🤠
 
-[Quiero ver la presentación"](./presentation.md)  
+**[Quiero ver la presentación](./presentation.md)** 
 
 ## **Tabla de contenidos**
 
