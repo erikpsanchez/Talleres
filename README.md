@@ -1,3 +1,3 @@
 # TALLERES
 [Abrir](prueba.md) 
-[Abrir](doc/prueba.md) 
+[Abrir](01) 
