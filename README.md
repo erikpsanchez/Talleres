@@ -1,3 +1,3 @@
 # TALLERES
-[Abrir](prueba.md) 
-[Abrir](doc/prueba.md) 
+- [Taller de Markdown](01) 
+- [Taller de HTML y CSS](02) 
