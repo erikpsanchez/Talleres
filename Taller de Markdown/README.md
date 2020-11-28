@@ -1,6 +1,6 @@
 # Taller de Markdown
 
-# **Tabla de contenidos**
+## **Tabla de contenidos**
 
 [Encabezados](#Encabezados)  
 
