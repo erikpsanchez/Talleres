@@ -150,7 +150,7 @@ eat: it was a [hobbit-hole][1], and that means comfort.
 
 ## **Imagen local**
 
-![Imagen](./cheems.jpg "...")
+![Imagen](cheems.png "...")
 ![Imagen](/img/img2.jpg "...")
 
 ## **Imagen de internet**
