@@ -146,7 +146,7 @@ eat: it was a [hobbit-hole][1], and that means comfort.
 
 [Abrir doc "holamundo.md"](./holamundo.md)  
  
-[Abrir doc "index.html" de la carpeta web](web/index.html) 
+[Abrir doc "index.html" de la carpeta web](web) 
 
 ## **Imagen local**
 
